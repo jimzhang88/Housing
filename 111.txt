@@ -1,0 +1,4 @@
+public class void Main(string[] args)
+{
+console.writeline("hello world");
+}
